@@ -1,0 +1,17 @@
+# Core Server and API Frameworks
+fastapi
+uvicorn
+
+# Data Processing and Numerical Operations
+pandas
+numpy
+
+# LLM Connections
+requests
+
+# Visualization
+plotly
+
+# Forecasting Engine (Implied dependency from forecasting_engine module)
+# Use the correct dependency (e.g., if using Keras/TensorFlow)
+tensorflow
